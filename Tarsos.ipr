@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="HaskellBuildOptions">
+    <ghcPath>/usr/local/bin/ghc</ghcPath>
+    <cabalPath>/usr/local/bin/cabal</cabalPath>
+    <stackPath>/usr/local/bin/stack</stackPath>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tarsos.iml" filepath="$PROJECT_DIR$/Tarsos.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/lib/commons-math-2.0.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/mydoggy-api-1.4.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/jgoodies-common-1.0.0.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/javaosc-core-0.3.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/mydoggy-res-1.4.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/swing-layout-1.0.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/mydoggy-plaf-1.4.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/forms-1.3.0.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/gervill.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/TarsosDSP-2.3.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/gervill-src.zip!/" />
+        <root url="jar://$PROJECT_DIR$/lib/TableLayout-20050920.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/kd.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/jopt-simple-3.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/commons-exec-1.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
